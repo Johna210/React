@@ -11,7 +11,6 @@ import EditEventPage from './pages/EditEvent';
 import RootLayout from './pages/Root';
 import EventRoot from './pages/EventRoot';
 import ErrorPage from './pages/Error';
-import { action } from './pages/NewEvent';
 
 // 1. Add five new (dummy) page components (content can be simple <h1> elements)
 //    - HomePage
